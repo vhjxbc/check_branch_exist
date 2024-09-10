@@ -1,0 +1,2 @@
+# check_branch_exist
+检查各目录中是否存在某个git分支
